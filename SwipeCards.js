@@ -24,7 +24,7 @@ const SWIPE_THRESHOLD = 120;
 const styles = StyleSheet.create({
   container: {
 //     flex: 1,
-    height: viewport.height,
+    height: 300,
     width: viewport.width,
     justifyContent: 'center',
     alignItems: 'center',
