@@ -28,7 +28,6 @@ const styles = StyleSheet.create({
     width: viewport.width,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'transparent',
   },
   yup: {
     borderColor: 'green',
